@@ -44,7 +44,7 @@
     "@iconify-json/ph": "^1.1.13",
     "@iconify-json/svg-spinners": "^1.1.2",
     "@lezer/highlight": "^1.2.0",
-    "@nanostores/react": "^0.7.2",
+    "@nanostores/react": "^0.8.4",
     "@octokit/rest": "^21.0.2",
     "@octokit/types": "^13.6.1",
     "@openrouter/ai-sdk-provider": "^0.0.5",
